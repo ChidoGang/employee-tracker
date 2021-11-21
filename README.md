@@ -11,6 +11,21 @@ License
 
 ## Usage 
 This application is intended to seed the table with your staff/employees and can update your company's databases.A screencastify walkthrough video link on how to use the application below can be found here: https://watch.screencastify.com/v/qSNly4XzvLjJW1WgOATS 
+
+## Screen shots
+![Screenshot (10)](https://user-images.githubusercontent.com/89168938/142775335-094d2214-0faf-4396-970f-837a3c559fc9.pn)
+
+![Screenshot (11)](https://user-images.githubusercontent.com/89168938/142775348-4b98f4c0-ba38-46e1-898d-7a28cb388efd.png)
+
+![Screenshot (12)](https://user-images.githubusercontent.com/89168938/142775355-0a6f03c7-038e-4568-a0a5-173319eb33db.png)
+
+![Screenshot (13)](https://user-images.githubusercontent.com/89168938/142775436-db83030d-ad0b-4ff2-a0b8-861c75a925fc.png)
+
+![Screenshot (14)](https://user-images.githubusercontent.com/89168938/142775446-db5a6f45-893b-42bd-8254-e3d85c94fdfe.png)
+
+
+
+
 ## MIT LICENSE
 
 MIT License
