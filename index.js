@@ -22,10 +22,10 @@ function startMenu() {
       name:'choice',
       message:'What would you like to do?',
       choices: [
+        "Show all Departments",
+          "Add a Department",
           "Show All Roles",
           "Add a Role",
-          "Show all Departments",
-          "Add a Department",
           "Show all Employees",
           "Add an Employee",
           "Update an Employees role"
